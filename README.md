@@ -20,7 +20,7 @@ Los datos estan en: [Drive][Datos]
 
 [Datos]: https://drive.google.com/drive/folders/0B9wNhp3GjjazZ2VCQVZmM3MwTTQ
 
-Link a twitter del [Juzgado 13][T13] 
+Link a twitter del [Juzgado 10][T13] 
 
 [T13]: https://twitter.com/jpcyf10?lang=es
 
